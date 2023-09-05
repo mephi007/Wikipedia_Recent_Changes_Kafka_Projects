@@ -1,0 +1,4 @@
+org/example/springboot/WikipediaChangesHandle.class
+org/example/springboot/KafkaTopicConfiguration.class
+org/example/springboot/Producer.class
+org/example/springboot/SpringBootProducerApplication.class
